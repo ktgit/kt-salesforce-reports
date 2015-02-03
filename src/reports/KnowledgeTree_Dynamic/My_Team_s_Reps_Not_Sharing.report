@@ -6,7 +6,7 @@
     <columns>
         <field>Opportunity.Activities$Subject</field>
     </columns>
-    <description>Reps who haven&apos;t shared content in last 30 days</description>
+    <description>Reps who own opportunities but haven&apos;t shared content in last 30 days</description>
     <filter>
         <criteriaItems>
             <column>Opportunity.Activities$ktree__TaskShareActivity__c</column>
@@ -20,7 +20,7 @@
         <field>Opportunity$Owner</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
-    <name>My Reps who are not sharing</name>
+    <name>My Team&apos;s Reps who are not sharing</name>
     <params>
         <name>co</name>
         <value>1</value>
