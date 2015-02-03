@@ -20,13 +20,13 @@
         <field>Opportunity$Owner</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
-    <name>Reps Not Sharing</name>
+    <name>My Reps who are not sharing</name>
     <params>
         <name>co</name>
         <value>1</value>
     </params>
     <reportType>Opportunities_with_or_without_Activities__c</reportType>
-    <scope>user</scope>
+    <scope>team</scope>
     <showDetails>false</showDetails>
     <timeFrameFilter>
         <dateColumn>Opportunity$CloseDate</dateColumn>

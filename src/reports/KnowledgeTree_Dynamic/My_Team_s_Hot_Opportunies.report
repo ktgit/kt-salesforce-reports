@@ -3,7 +3,7 @@
     <columns>
         <field>SUBJECT</field>
     </columns>
-    <description>My Team&apos;s Opportunities with View / Download Activities in last 30 days.</description>
+    <description>My Team&apos;s Opportunities that interacted with KnowledgeTree content in the last 7 days</description>
     <filter>
         <criteriaItems>
             <column>Activity.ktree__TaskShareActivity__c</column>

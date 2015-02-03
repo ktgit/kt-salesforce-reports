@@ -6,7 +6,7 @@
     <columns>
         <field>Opportunity$Owner</field>
     </columns>
-    <description>Opportunities with KnowledgeTree View or Download Asset Events in last 7 days</description>
+    <description>Opportunities that interacted with KnowledgeTree content in last 7 days</description>
     <filter>
         <criteriaItems>
             <column>Opportunity.Activities$ktree__TaskShareActivity__c</column>

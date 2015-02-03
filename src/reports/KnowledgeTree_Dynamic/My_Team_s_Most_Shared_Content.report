@@ -3,7 +3,7 @@
     <columns>
         <field>LAST_UPDATE</field>
     </columns>
-    <description>Most Shared content by My Team in the last 30 days</description>
+    <description>Most shared KnowledgeTree content in the last 30 days</description>
     <filter>
         <criteriaItems>
             <column>Activity.ktree__TaskShareActivity__c</column>
