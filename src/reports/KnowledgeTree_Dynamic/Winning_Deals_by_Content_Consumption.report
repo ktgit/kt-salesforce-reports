@@ -66,8 +66,6 @@
     <showDetails>true</showDetails>
     <timeFrameFilter>
         <dateColumn>DUE_DATE</dateColumn>
-        <endDate>2014-08-12</endDate>
-        <interval>INTERVAL_CUSTOM</interval>
-        <startDate>2014-04-01</startDate>
+        <interval>INTERVAL_LAST120</interval>
     </timeFrameFilter>
 </Report>
