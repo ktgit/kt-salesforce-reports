@@ -17,7 +17,7 @@
         <field>SUBJECT</field>
         <sortOrder>Desc</sortOrder>
     </groupingsDown>
-    <name>My Team's Most Shared Content</name>
+    <name>My Team&apos;s Most Shared Content</name>
     <params>
         <name>closed</name>
         <value>all</value>

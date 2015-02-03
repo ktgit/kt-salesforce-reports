@@ -3,6 +3,7 @@
     <columns>
         <field>LAST_UPDATE</field>
     </columns>
+    <description>Number of KnowledgeTree shares created in each Sales Stage in the last 30 days</description>
     <filter>
         <criteriaItems>
             <column>Activity.ktree__TaskShareActivity__c</column>

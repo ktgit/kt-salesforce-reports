@@ -3,6 +3,7 @@
     <columns>
         <field>LAST_UPDATE</field>
     </columns>
+    <description>KnowledgeTree content that prospects interacted with the most in the last 30 days</description>
     <filter>
         <criteriaItems>
             <column>Activity.ktree__TaskShareActivity__c</column>

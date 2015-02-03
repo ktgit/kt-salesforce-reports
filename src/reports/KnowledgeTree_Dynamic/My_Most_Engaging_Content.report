@@ -40,6 +40,7 @@
     <columns>
         <field>LAST_UPDATE</field>
     </columns>
+    <description>Most interacted with KnowledgeTree content that I shared in the last 30 days</description>
     <filter>
         <criteriaItems>
             <column>Activity.ktree__TaskShareActivity__c</column>

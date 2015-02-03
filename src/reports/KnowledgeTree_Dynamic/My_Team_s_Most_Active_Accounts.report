@@ -24,6 +24,7 @@
     <columns>
         <field>OPPORTUNITY</field>
     </columns>
+    <description>Accounts that interacted with KnowledgeTree content the most during the last 30 days</description>
     <filter>
         <criteriaItems>
             <column>Activity.ktree__TaskShareActivity__c</column>

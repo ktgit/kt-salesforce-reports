@@ -27,6 +27,7 @@
     <columns>
         <field>OPPORTUNITY</field>
     </columns>
+    <description>Reps who have shared the most content through KnowledgeTree</description>
     <filter>
         <criteriaItems>
             <column>Activity.ktree__TaskShareActivity__c</column>
@@ -40,7 +41,7 @@
         <field>CREATED_BY</field>
         <sortOrder>Desc</sortOrder>
     </groupingsDown>
-    <name>My Team Sharing Scoreboard</name>
+    <name>My Team&apos;s Sharing Scoreboard</name>
     <params>
         <name>closed</name>
         <value>all</value>

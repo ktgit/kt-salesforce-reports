@@ -27,7 +27,7 @@
     <columns>
         <field>OPPORTUNITY_NAME</field>
     </columns>
-    <description>All titles shared in Closed-Won deals</description>
+    <description>All content shared in Closed Won deals in the last 120 days</description>
     <filter>
         <criteriaItems>
             <column>WON</column>

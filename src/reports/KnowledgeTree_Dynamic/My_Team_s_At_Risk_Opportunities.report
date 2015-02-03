@@ -10,7 +10,7 @@
         <aggregateTypes>Sum</aggregateTypes>
         <field>Opportunity$Amount</field>
     </columns>
-    <description>Opportunities with Close Date Next 30 Days without KnowledgeTree View or Download Activities in last 30 days</description>
+    <description>Opportunities with Close Date within the next 60 days without KnowledgeTree View / Download Activities in last 30 days</description>
     <filter>
         <criteriaItems>
             <column>Opportunity.Activities$ktree__TaskShareActivity__c</column>

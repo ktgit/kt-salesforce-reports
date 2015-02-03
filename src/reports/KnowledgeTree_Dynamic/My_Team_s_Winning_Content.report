@@ -3,6 +3,7 @@
     <columns>
         <field>Opportunity$Name</field>
     </columns>
+    <description>Content used to win deals with Close Date in the last 120 days</description>
     <filter>
         <criteriaItems>
             <column>Opportunity$IsWon</column>
