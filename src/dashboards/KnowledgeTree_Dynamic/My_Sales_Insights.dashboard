@@ -67,7 +67,7 @@
             <expandOthers>false</expandOthers>
             <legendPosition>Bottom</legendPosition>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>KnowledgeTree_Dynamic/Content_Most_Shared_by_My_Team</report>
+            <report>KnowledgeTree_Dynamic/My_Team_s_Most_Shared_Content</report>
             <showPercentage>false</showPercentage>
             <showPicturesOnCharts>false</showPicturesOnCharts>
             <showValues>false</showValues>

@@ -3,6 +3,7 @@
     <columns>
         <field>LAST_UPDATE</field>
     </columns>
+    <description>Most Shared content by My Team in the last 30 days</description>
     <filter>
         <criteriaItems>
             <column>Activity.ktree__TaskShareActivity__c</column>
@@ -16,7 +17,7 @@
         <field>SUBJECT</field>
         <sortOrder>Desc</sortOrder>
     </groupingsDown>
-    <name>Content Most Shared by My Team</name>
+    <name>My Team's Most Shared Content</name>
     <params>
         <name>closed</name>
         <value>all</value>
