@@ -80,7 +80,7 @@
             <displayUnits>Auto</displayUnits>
             <drillEnabled>false</drillEnabled>
             <drillToDetailEnabled>false</drillToDetailEnabled>
-            <footer>Opportunities with Close Date Next 30 Days and without View / Download Asset Activities in Last 60 Days</footer>
+            <footer>Opportunities with Close Date Next 60 Days and without KnowledgeTree content interaction in Last 30 Days</footer>
             <header>At Risk Opportunities</header>
             <indicatorHighColor>#54C254</indicatorHighColor>
             <indicatorLowColor>#C25454</indicatorLowColor>
@@ -98,7 +98,7 @@
             <displayUnits>Auto</displayUnits>
             <drillEnabled>false</drillEnabled>
             <drillToDetailEnabled>false</drillToDetailEnabled>
-            <footer>Content used to close deals with Close Date last 120 days.</footer>
+            <footer>Content used to close deals with a Close Date within the last 120 days.</footer>
             <header>My Team&apos;s Winning Content</header>
             <indicatorHighColor>#54C254</indicatorHighColor>
             <indicatorLowColor>#C25454</indicatorLowColor>
