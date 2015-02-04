@@ -12,6 +12,8 @@
             <displayUnits>Auto</displayUnits>
             <drillEnabled>false</drillEnabled>
             <drillToDetailEnabled>true</drillToDetailEnabled>
+            <footer>Most interactions with KnowledgeTree content</footer>
+            <header>My Most Engaged Contacts</header>
             <indicatorHighColor>#54C254</indicatorHighColor>
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
@@ -19,13 +21,14 @@
             <report>KnowledgeTree_Dynamic/My_Most_Engaged_Contacts</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowValueDescending</sortBy>
-            <title>My Most Engaged Contacts</title>
         </components>
         <components>
             <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
             <componentType>Table</componentType>
             <displayUnits>Auto</displayUnits>
             <drillEnabled>false</drillEnabled>
+            <footer>My top sharing reps</footer>
+            <header>Sharing Scoreboard for My Team</header>
             <drillToDetailEnabled>true</drillToDetailEnabled>
             <indicatorBreakpoint1>30.0</indicatorBreakpoint1>
             <indicatorBreakpoint2>100.0</indicatorBreakpoint2>
@@ -36,7 +39,6 @@
             <report>KnowledgeTree_Dynamic/My_Team_Sharing_Scoreboard</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowValueDescending</sortBy>
-            <title>Sharing Scoreboard for My Team</title>
         </components>
     </leftSection>
     <middleSection>
@@ -47,6 +49,8 @@
             <displayUnits>Auto</displayUnits>
             <drillEnabled>false</drillEnabled>
             <drillToDetailEnabled>true</drillToDetailEnabled>
+            <footer>Most interactions with KnowledgeTree content</footer>
+            <header>My Most Active Accounts</header>
             <indicatorHighColor>#54C254</indicatorHighColor>
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
@@ -54,7 +58,6 @@
             <report>KnowledgeTree_Dynamic/My_Most_Active_Accounts</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowValueDescending</sortBy>
-            <title>My Most Active Accounts</title>
         </components>
         <components>
             <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
@@ -65,6 +68,7 @@
             <drillToDetailEnabled>false</drillToDetailEnabled>
             <enableHover>true</enableHover>
             <expandOthers>false</expandOthers>
+            <header>Content Most Shared by My Team</header>
             <legendPosition>Bottom</legendPosition>
             <maxValuesDisplayed>10</maxValuesDisplayed>
             <report>KnowledgeTree_Dynamic/My_Team_s_Most_Shared_Content</report>
@@ -72,7 +76,6 @@
             <showPicturesOnCharts>false</showPicturesOnCharts>
             <showValues>false</showValues>
             <sortBy>RowValueDescending</sortBy>
-            <title>Content Most Shared by My Team</title>
             <useReportChart>false</useReportChart>
         </components>
     </middleSection>
@@ -87,6 +90,8 @@
             <drillToDetailEnabled>false</drillToDetailEnabled>
             <enableHover>true</enableHover>
             <expandOthers>false</expandOthers>
+            <footer>Content shared by me that prospects have viewed or downloaded</footer>
+            <header>My Most Engaging Content</header>
             <legendPosition>Bottom</legendPosition>
             <maxValuesDisplayed>10</maxValuesDisplayed>
             <report>KnowledgeTree_Dynamic/My_Most_Engaging_Content</report>
@@ -94,7 +99,6 @@
             <showPicturesOnCharts>false</showPicturesOnCharts>
             <showValues>false</showValues>
             <sortBy>RowValueDescending</sortBy>
-            <title>My Most Engaging Content</title>
             <useReportChart>false</useReportChart>
         </components>
         <components>
@@ -106,13 +110,14 @@
             <drillToDetailEnabled>false</drillToDetailEnabled>
             <enableHover>true</enableHover>
             <expandOthers>false</expandOthers>
+            <footer>Content shared by my team that prospects have viewed or downloaded</footer>
+            <header>My Team&apos;s Most Engaging Content</header>
             <legendPosition>Bottom</legendPosition>
             <report>KnowledgeTree_Dynamic/My_Team_s_Most_Engaging_Content</report>
             <showPercentage>false</showPercentage>
             <showPicturesOnCharts>false</showPicturesOnCharts>
             <showValues>false</showValues>
             <sortBy>RowValueDescending</sortBy>
-            <title>My Team&apos;s Most Engaging Content</title>
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
