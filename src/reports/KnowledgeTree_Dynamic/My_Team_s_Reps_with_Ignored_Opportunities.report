@@ -20,7 +20,7 @@
         <field>Opportunity$Owner</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
-    <name>My Team&apos;s Reps who are not sharing</name>
+    <name>My Team&apos;s Reps w/ Ignored Opportunities</name>
     <params>
         <name>co</name>
         <value>1</value>
